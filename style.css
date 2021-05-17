@@ -1,0 +1,342 @@
+/*   np    */
+
+.ne_znay2 {
+  display: inline-block;
+}
+
+.ne_znay3 {
+  display: inline-block;
+}
+
+.ne_znay4 {
+  display: inline-block;
+}
+
+.ITBG {
+  width: 100%;
+  height: 460px;
+  display: block;
+  background-image: url(images/IT_BG.jpg);  
+}
+
+
+
+
+
+
+
+.MainTextNP1{
+  color: blue;
+  font-family: 'Comfortaa', cursive;
+  font-size: 70px;
+  padding: 20px;
+}
+
+.MainTextNP2{
+  color: green;
+  font-family: 'Comfortaa', cursive;
+  font-size: 70px;
+  padding: 20px;
+}
+
+.MainTextNP3{
+  color: orange;
+  font-family: 'Comfortaa', cursive;
+  font-size: 70px;
+  padding: 20px;
+}
+
+
+
+
+.Text1 {
+ font-family: 'Comfortaa', cursive;
+ font-size: 20px;
+ padding: 10px;
+}
+
+.Text2 {
+ font-family: 'Comfortaa', cursive;
+ font-size: 20px;
+ padding: 10px;
+ color: blue;
+}
+
+.Text3 {
+ font-family: 'Comfortaa', cursive;
+ font-size: 20px;
+ padding: 10px;
+ color: green;
+}
+
+.Text4 {
+ font-family: 'Comfortaa', cursive;
+ font-size: 20px;
+ padding: 10px;
+ color: orange;
+}
+
+.MainTextNP {
+ font-family: 'Comfortaa', cursive;
+ font-size: 40px;
+ padding: 20px;
+}
+
+
+
+
+
+.lineP {
+  margin: 0 auto;
+  background-color: black;
+  width: 100%;
+  max-width: 2500px;
+  height: 3px;
+  text-align: left;
+}
+
+.lineP1{
+  margin: 0 auto;
+  background-color: blue;
+  width: 100%;
+  max-width: 500px;
+  height: 3px;
+  text-align: center;
+}
+
+.lineP2{
+  margin: 0 auto;
+  background-color: green;
+  width: 100%;
+  max-width: 500px;
+  height: 3px;
+  text-align: center;
+}
+
+.lineP3{
+  margin: 0 auto;
+  background-color: orange;
+  width: 100%;
+  max-width: 500px;
+  height: 3px;
+  text-align: center;
+}
+
+
+
+.TNPBlock {
+padding: 10px;
+text-align: center;
+}
+/* Main */
+
+
+
+
+.block {
+padding: 10px;
+text-align: center;
+}
+.block2 {
+padding: 20px;
+text-align: center;
+}
+
+.block__pod_0 {
+ margin: 5px 20px;
+ display: inline-block;
+ width: 257px;
+ height: 120px;
+ transition: 0.2s linear;
+ background-image: url(images/neiro.png);
+}
+.block__pod_0:hover {
+  background-image: url(images/70_23.png);
+  }
+.block__pod_1 {
+  margin: 5px 20px;
+ display: inline-block;
+ width: 183px;
+ height: 120px;
+ background-image: url(images/it.png);
+ transition: 0.2s linear;
+}
+.block__pod_1:hover {
+ background-image: url(images/70_19.png);
+ }
+.block__pod_2 {
+  margin: 5px 20px;
+ display: inline-block;
+ width: 248px;
+ height: 120px;
+ background-image: url(images/space.png);
+ transition: 0.2s linear;
+}
+.block__pod_2:hover {
+ background-image: url(images/70_22.png);
+  }
+.block__pod_3 {
+ transition: 0.2s linear;
+ margin: 5px 20px;
+ width: 225px;
+ height: 120px;
+ display: inline-block;
+ background-image: url(images/aero.png);
+}
+.block__pod_3:hover {
+  background-image: url(images/70_18.png);
+  }
+.block__pod_4 {
+ transition: 0.2s linear;
+ margin: 5px 20px;
+ width: 235px;
+ height: 120px;
+ display: inline-block;
+ background-image: url(images/auto.png);
+}
+.block__pod_4:hover {
+  background-image: url(images/70_17.png);
+  }
+.block__pod_5 {
+ transition: 0.2s linear;
+ margin: 5px 20px;
+ width: 208px;
+ height: 120px;
+ display: inline-block;
+ background-image: url(images/geo.png);
+}
+.block__pod_5:hover {
+  background-image: url(images/70_21.png);
+  }
+.block__pod_6 {
+ transition: 0.2s linear;
+ margin: 5px 20px;
+ width: 239px;
+ height: 120px;
+ display: inline-block;
+ background-image: url(images/nano.png);
+}
+.block__pod_6:hover {
+  background-image: url(images/70_16.png);
+  }
+.block__pod_7 {
+ transition: 0.2s linear;
+ margin: 5px 20px;
+ width: 236px;
+ height: 120px;
+ display: inline-block;
+ background-image: url(images/robo.png);
+}
+.block__pod_7:hover {
+  background-image: url(images/70_20.png);
+  }
+.container {
+  width: 100%;
+  height: 450px;
+  display: block;
+  background-image: url(images/insideone.jpg);
+}
+.map {
+  width: 1349px;
+  height:517px;
+  display: inline-block;
+  background-image: url(images/map.png);
+}
+.block4 {
+padding: 20px;
+text-align: center;
+}
+
+.maintext {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  width: 100%;
+  color: block;
+  height: 15vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 50px;
+ }
+.obert_logo {
+   position: fixed;
+   top: 0px;
+   left: 0px;
+   width: 100%;
+   height: 70px;
+   background-color: white;
+}
+
+
+ 
+.obert_logo__logo {
+  margin: 11px 5px;
+  display: inline-block;
+	float: left;
+	width: 228px;
+	height: 44px;
+	background-image: url(images/logo.png);
+ }
+ .obert_logo__nomer {
+  text-align: center;
+  margin: 10px 0px;
+  display: inline-block;
+  float: right;
+  max-width: 180px;
+ font-size: 20px;
+ color: #1e23b3;
+ }
+
+ body {
+    background-color: white;
+    margin: 0; 
+   }
+
+   .display {
+    margin: 0 auto;
+    background-color: black;
+    width: 100%;
+    max-width: 300px;
+    height: 3px;
+    text-align: center;
+     
+}
+
+
+.down {
+width: 100%;
+height: 80px;
+display: block;
+}
+
+.dlya_icon {
+
+     width: 400px;
+     text-align: : center;
+     display: inline-block;
+     height: 30px;
+     background-color: black;
+}
+
+
+
+
+h2 {
+    display: block;
+    font-size: 0em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1 {
+  
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+   
+
